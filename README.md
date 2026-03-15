@@ -8,11 +8,10 @@
 
 # Boubacar Ba
 
-**Software Engineering Student @ Laurentian University**
+**Computer Science Student @ Laurentian University**
 *Machine Learning • Full-Stack Development • Systems Programming*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boubacar-ba)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psoro288@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2o-7a9074372/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://github.com/Psoro77/My-Portfolio)
 
 </div>
