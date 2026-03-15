@@ -12,7 +12,7 @@
 *Machine Learning • Full-Stack Development • Systems Programming*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2o-7a9074372/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://github.com/Psoro77/My-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://booba.ca/)
 
 </div>
 
