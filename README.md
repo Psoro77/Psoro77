@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="right">
 
-<!--
-**Psoro77/Psoro77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://komarev.com/ghpvc/?username=Psoro77&color=gray&style=flat-square)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+# Boubacar Ba
+
+**Software Engineering Student @ Laurentian University**
+*Machine Learning • Full-Stack Development • Systems Programming*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boubacar-ba)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psoro288@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://github.com/Psoro77/My-Portfolio)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/Psoro77/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Psoro77/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Psoro77/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Psoro77/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+</div>
